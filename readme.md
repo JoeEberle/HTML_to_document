@@ -39,11 +39,8 @@ To get started with the **Html To Document** solution repository, follow these s
  ![additional_image](HTML_to_document.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
