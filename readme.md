@@ -4,21 +4,11 @@
 
 ## A utility to create a word document docx out of HTML documents.
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Html To Document** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Html To Document** 
 
 A utility to create a word document docx out of HTML documents.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
